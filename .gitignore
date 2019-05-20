@@ -1,0 +1,11 @@
+# zip file
+*.zip
+
+# raw data/csv
+*.csv
+*.xlsx
+
+# python
+
+# jupyter notebook
+
