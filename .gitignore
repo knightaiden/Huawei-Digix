@@ -1,5 +1,6 @@
 # zip file
 *.zip
+*.crdownload
 
 # raw data/csv
 *.csv
