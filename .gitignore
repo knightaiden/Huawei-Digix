@@ -10,3 +10,13 @@
 
 # jupyter notebook
 
+#others
+*.png
+*.class
+*.iml
+*.cache
+*.pdf
+\.idea/*
+2\.CTR/Z/spark/\.idea/*
+2\.CTR/Z/spark/output/*
+2\.CTR/Z/spark/target/*
